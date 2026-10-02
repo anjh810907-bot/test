@@ -1,0 +1,6 @@
+{
+  "name": "도토리급식 - 내가 심은 도토리 메뉴, 다음 주 급식 식판에 쏙!",
+  "description": "학생들과 선생님, 급식선생님이 함께 소통하며 더 맛있는 급식을 만들어가는 귀엽고 감성적인 급식 평가 & 메뉴 건의 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
